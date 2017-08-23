@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoLocalTest/DemoLocalTest.iml" filepath="$PROJECT_DIR$/DemoLocalTest/DemoLocalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MYCAndroidFrame.iml" filepath="$PROJECT_DIR$/MYCAndroidFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlibs/androidlibs.iml" filepath="$PROJECT_DIR$/androidlibs/androidlibs.iml" />
+    </modules>
+  </component>
+</project>
