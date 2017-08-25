@@ -9,6 +9,8 @@ buildscript {
         // 重点就是下面这两行(上面两行是为了定位这一行的添加位置)题爱家jitpack的依赖库
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
+        //大神的注解日志
+        classpath 'com.jakewharton.hugo:hugo-plugin:1.2.1'
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }
